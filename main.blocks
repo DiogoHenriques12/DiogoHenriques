@@ -1,0 +1,49 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="ILI$lrFD`l7}Yp:x4H@!" deletable="false" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="0(cJYR~)S/7R_8i$$}Wa" deletable="false"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="Zh@-5vr27$JZTdII(K-l" deletable="false"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="7,Yw|_6WV1~Ch8]3)HiW" deletable="false"><field name="LEDS">`
+        # . . # . 
+        # . . # . 
+        # . . # . 
+        # . . # . 
+        # # . # #
+        `</field><next><block type="device_show_leds" id="gIcEz,#MYWg@/SDS_C-n" deletable="false"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="OjZKKtcVr{##4Z]@@hCD" deletable="false"><field name="LEDS">`
+        . . . . . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="qyU@=Qjc,,l~yHc6G_.k"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # # # # . 
+        # . . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="6mCrrI4NM]E8{Y3.Nn`i"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # # # # . 
+        # . . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="Wj66-Azzxmx-|=gBM_W}"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="basic_show_icon" id="^lL-s@2u.J).t_6PBGc`" deletable="false"><field name="i">IconNames.Ghost</field><next><block type="playMelody" id="kE$mI$VgIV!-Q7,yuB`G" deletable="false"><value name="melody"><shadow type="melody_editor"><field name="melody">"A C5 A F E F - F "</field></shadow><block type="melody_editor" id="},C|uzC);MjrJ4T|vY:7" deletable="false"><field name="melody">"F E F E B G B C5 "</field></block></value><value name="tempo"><shadow type="math_number_minmax" id=";QPnBHK`VL++SJXZ1=8F"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="+]oM!LtB~k:vILB~T9,?" deletable="false"><value name="melody"><shadow type="melody_editor" id="9J(=Q}bcn!{8!,8b2dX9"><field name="melody">"E G D A E C5 G F "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="9a3mIopS~-?!i,f@XT,u"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="2I%i/M?6%b[wv|JJSIr." deletable="false" x="267" y="878"></block><block type="device_print_message" id=")9vD}K[ChI8evqyAzeHD" disabled="true" deletable="false" x="239" y="980"><value name="text"><shadow type="text" id="L(9Mi(/H~^/u]TEH04a|" disabled="true"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_number" id="!+!]iuNLx-t]Wd@}97yz" disabled="true" deletable="false"><value name="number"><shadow type="math_number" id="Q)wJLA6~t^0gJHH[I.1o" disabled="true"><field name="NUM">0</field></shadow></value></block></next></block><block type="basic_show_icon" id="gXsKxnC[^y$6qs;Y3bnn" disabled="true" deletable="false" x="325" y="1177"><field name="i">IconNames.Heart</field></block><block type="device_pause" id="u6pD9]aPdL_z[[n9vn]T" disabled="true" deletable="false" x="262" y="1457"><value name="pause"><shadow type="timePicker" id="bxfqQ6c-4-aJ;]d/+@@p" disabled="true"><field name="ms">100</field></shadow></value></block></xml>
